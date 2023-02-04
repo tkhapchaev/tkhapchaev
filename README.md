@@ -2,4 +2,4 @@
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=tkhapchaev&theme=tokyonight)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkhapchaev&langs_count=3&layout=compact&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkhapchaev&layout=compact&theme=tokyonight)
