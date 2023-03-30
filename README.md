@@ -2,4 +2,4 @@
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=tkhapchaev&theme=nord)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkhapchaev&layout=compact&hide=jupyter_notebook&theme=nord)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkhapchaev&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=nord)
